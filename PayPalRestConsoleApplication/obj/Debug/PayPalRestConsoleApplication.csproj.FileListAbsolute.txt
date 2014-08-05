@@ -1,0 +1,12 @@
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\PayPalRestConsoleApplication.exe.config
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\obj\Debug\PayPalRestConsoleApplication.csprojResolveAssemblyReference.cache
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\PayPalRestConsoleApplication.exe
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\PayPalRestConsoleApplication.pdb
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\log4net.dll
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\PayPalCoreSDK.dll
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\RestApiSDK.dll
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\log4net.xml
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\obj\Debug\PayPalRestConsoleApplication.exe
+C:\PayPalRestConsoleApplication\PayPalRestConsoleApplication\obj\Debug\PayPalRestConsoleApplication.pdb
